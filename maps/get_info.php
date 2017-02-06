@@ -1,0 +1,21 @@
+<?php
+  include'db.php';
+/*
+$id=$_GET['id'];
+		$sql_lokasi="select * 
+            	from lokasi  where idlokasi='$id' ";
+            	$result=mysql_query($sql_lokasi);
+            	while($data=mysql_fetch_object($result)){
+            		$content="<div id=\"content\">
+    <div id=\"siteNotice\">
+    </div>
+    <h3 id=\"firstHeading\" class=\"firstHeading\">$data->nama</h3>
+    <div id=\"bodyContent\"> <p>
+    <img src=\"foto/$data->foto\" style=\"float:left;margin:0 5px 0 0;\" width='10%'>
+    $data->deskripsi </p>
+    </div></div>";
+	}	
+		echo $content;
+		*/
+		hahaha
+?>
